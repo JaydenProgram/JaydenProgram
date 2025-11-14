@@ -41,7 +41,7 @@ I’m always eager to learn new things. Whether it’s exploring new programming
 
 #
 
-# 📈 Stats
+# 📈 Stats (Not yet that special)
 [![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaydenProgram&show_icons=true&theme=gruvbox)](https://github.com/JaydenProgram)
 
 #
