@@ -12,8 +12,9 @@ I’m always eager to learn new things. Whether it’s exploring new programming
   <a href="mailto:jaydenblom2005@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Gmail" width="60" height="60"/> </a>
 </p>
 
-<h2 align="center">🛠️ Languages and Tools:</h3>
-<p align="center">
+<h2 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">Coding Languages:</h3>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -21,8 +22,8 @@ I’m always eager to learn new things. Whether it’s exploring new programming
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="center">Extra tools:</h3>
-<p align="center">
+<h3 align="left">Extra tools:</h3>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/>
