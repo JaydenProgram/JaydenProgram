@@ -41,12 +41,22 @@ I’m always eager to learn new things. Whether it’s exploring new programming
 
 #
 
-<h2 align="left">📈 Stats:</h3>
+<h2 align="left">📈 Stats:</h2>
 ![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaydenProgram&show_icons=true&theme=gruvbox)
 
 #
 
 <details>
   <summary><h3>My Journey</h3></summary>
-  I started my coding journey at the start of my study actually. Beforehand i never actually coded anything before, i was always interested and read into some stuff but never actually made something myself. Starting was really easy, my study made it so we could make our own project really quickly which was the main point. Learn by making. For 2 years i made projects in school following their guidelines and process. After these years i started becoming more interested myself in learning coding, i started making my own small projects on for example the platform Roblox. Where i published small games that were not really that special but did learn me the basics about game engines and the programming language LUA. In my third year i started out with half a year of an internship where i focused mainly on the frontend of Laravel projects. They used mainly bootstrap and Sass and i learned alot about specific front-end specific features. Like the importance of speed by using lazy loading, but also i learned alot about project structure and file and script naming conventions. For the second half year of my third year in this study i made my own project in Unity, which was a Virtual reality tool for creating your own stage plan 
+  
+  I started my coding journey at the beginning of my studies. Before that, I had never actually written code myself. I was always interested, read about it, but never created anything. Starting out was surprisingly smooth: my study program encouraged us to quickly build our own projects. The core philosophy was simple: **learn by making**.
+  For the first two years, I worked on school projects following structured guidelines and development processes. After that, I became more interested in learning independently. I started building small projects, including some on Roblox, where I published simple games. They weren’t huge projects, but they taught me the basics of working with game engines and the Lua programming language.
+  In my third year, I completed a six-month internship focused mainly on the **front end of Laravel projects**. I worked with Bootstrap and Sass and learned a lot about front-end–specific practices, such as optimizing performance with lazy loading, and maintaining clear project structure and naming conventions.
+  During the second half of that year, I developed my own project in Unity: a **Virtual Reality tool for creating stage plans**, called [StageIt](https://cmgt.hr.nl/projecten/stageit).  
+  Working with Unity for six months helped me grow significantly in both C# and game development.
+  In my fourth year, I followed the **Games minor**, where I worked mostly as a developer on two projects:  
+  – [ShipBound](https://cmgt.hr.nl/projecten/shipbound)  
+  – *Where We Went*  
+  Currently, I’m focusing primarily on **web development**, working with the **MERN stack** as I continue building my skills and exploring new technologies.
 </details>
+
