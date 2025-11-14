@@ -38,3 +38,8 @@ I’m always eager to learn new things. Whether it’s exploring new programming
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>
 </p>
+
+#
+
+<h2 align="left">📈 Stats:</h3>
+[![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaydenProgram)](https://github.com/JaydenProgram/github-readme-stats)
